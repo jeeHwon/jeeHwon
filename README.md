@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 :computer:I am now on the path to becoming a developer.
 :fire:It is fun to learn new things every day and I am growing little by little day by day.
 :sparkles:I want to communicate with the world with my own unique service, and I am learning because I am interested in the following things.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeHwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

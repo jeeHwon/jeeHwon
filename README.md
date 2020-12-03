@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :computer:I am now on the path to becoming a developer. </br>
 :fire:It is fun to learn new things every day and I am growing little by little day by day.</br>
-:sparkles:I want to communicate with the world with my own unique service, and I am learning because I am interested in the following things.</br>
+:sparkles:I want to communicate with the world with my own unique service. </br>
 
 </hr>
 

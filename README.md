@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:computer: I am now on the path to becoming a developer. </br>
-:fire: It is fun to learn new things every day and I am growing little by little day by day.</br>
 :sparkles: I want to communicate with the world with my own unique service. </br>
 
 </hr>

@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 </hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeHwon&layout=compact&hide=jupytherNotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeHwon&layout=compact&hide=jupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 

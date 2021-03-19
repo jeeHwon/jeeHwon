@@ -256,7 +256,7 @@
 									<span class="company">고려대학교 식품영양학과 졸업(이학사) - 2010.03 - 2014.02</span>
 								</div>
 								<div class="timeline-body">
-									<p>발효주에 관심이 많아 </p>
+									<p>발효주에 관심이 많아 미생물학과 분자영양학 수업이 즐거웠던 기억이 있습니다. 2013년에는 학과학생회장을 맡아 1년간 학과행사를 주도했습니다. 학군단 52기로 방학기간엔 학생군사훈련을 받았는데 야간행군때 보았던 반딧불이 아직도 생생히 기억 납니다.</p>
 								</div>
 							</div>
 						</li>
@@ -264,11 +264,11 @@
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Diploma Course</h3>
-									<span class="company">College Name - 1999 - 2001</span>
+									<h3 class="timeline-title">Chuncheon High School</h3>
+									<span class="company">춘천고등학교 졸업 - 2007.03 - 2010.02</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>고등학교 2학년때 친구들 7명을 지금까지 만납니다. 모임이름은 고이고이 입니다. 벌써 아버지가 된 친구도 있습니다. 여름방학에 계곡에서 뛰어놀다 넘어져 뼈를 보인 친구인데 감개가 무량합니다. 힘들고 기쁜일에 함께하는 친구들이 옆에 있다는 사실에 항상 마음이 든든합니다</p>
 								</div>
 							</div>
 						</li>

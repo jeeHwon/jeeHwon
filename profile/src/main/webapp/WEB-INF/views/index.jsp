@@ -101,7 +101,7 @@
 						<li><span class="first-block">Name:</span><span class="second-block">Seungwon Ji</span></li>
 						<li><span class="first-block">Phone:</span><span class="second-block">+ 82 010 2032 4032</span></li>
 						<li><span class="first-block">Email:</span><span class="second-block">jeehwon01@gmail.com</span></li>
-						<li><span class="first-block">Website:</span><span class="second-block">www.mysite.com</span></li>
+						<li><span class="first-block">Github:</span><span class="second-block">github.com/jeeHwon</span></li>
 						<li><span class="first-block">Address:</span><span class="second-block">605, Gyeongin-ro, Bucheon-si, Gyeonggi-do, Republic of Korea</span></li>
 					</ul>
 				</div>

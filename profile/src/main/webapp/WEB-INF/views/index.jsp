@@ -111,9 +111,9 @@
 					</ul>
 				</div>
 				<div class="col-md-8">
-					<h2 class="kor_head">"어제와 오늘이 다른 개발자, 지승원입니다"</h2>
-					<p class="kor_body">Hello World라는 코드 첫줄을 적은 날로부터 6개월정도의 시간이 흘렀습니다. 이 길에 들어선 기간은 짧지만 누구보다 빠르게 성장했다고 생각합니다. 저는 문제 해결에 관심이 많습니다. 머릿속에 떠오른 문제는 반드시 해결해야 직성이 풀리는 성격입니다. 나의 문제, 세상의 문제를 해결하는데 프로그램 개발만큼 좋은 수단은 없다는 생각이 들었습니다. 그렇기에 미련 없이 하던 일을 내려놓고 이 길에 들어설 수 있었습니다. </p>
-					<p class="kor_body">비전공자이고 개발을 시작한지 얼마 되지 않은점을 약점이라 생각하지 않습니다. 짧은 시간에 새로운 기술을 익히고 적용할 수 있는 능력이 저의 가장 큰 강점이기 때문입니다. 프로그래밍의 길이 매일 새로운 공부의 연속이란 사실을 잘 알고 있습니다. 이 과정이 저에게 고통이 아니고 즐거움의 대상이 되는 이유는 코드는 즉각적이고 빠르게 성취감을 느낄 수 있다는 점입니다. 어제의 나보다 더 나은 오늘의 내가 될 수 있다는 사실에 행복하고 감사합니다.</p>
+					<h2 class="kor_body">"어제와 오늘이 다른 개발자, 지승원입니다"</h2>
+					<p class="kor_body">"Hello World" 코드 첫 줄을 적은 날로부터 약 6개월 정도의 시간이 흘렀습니다. 이 길에 들어선 기간은 짧지만, 누구보다 빠르게 성장하고 있다고 생각합니다. 저는 문제 해결에 관심이 많습니다. 나의 문제, 세상의 문제를 해결하는데 프로그램 개발만큼 좋은 수단은 없다는 생각이 들었습니다. 그렇기에 확신을 가지고 이 길에 들어설 수 있었습니다. </p>
+					<p class="kor_body">비전공자이고 개발을 시작한 지 얼마 되지 않은 점을 큰 문제라 생각하지 않습니다. 짧은 시간에 새로운 기술을 익히고 활용할 수 있는 능력이 저의 가장 큰 강점이기 때문입니다. 프로그래밍의 길이 매일 새로운 공부의 연속이란 사실을 잘 알고 있습니다. 하지만 이 과정은 저에게 즐거움을  줍니다. 공부를 위한 공부가 아닌 목표 해결을 위한 더 나은 수단으로서의 배움이기 때문입니다. 어제의 나보다 더 나은  내가 될 수 있다는 사실에 행복하고 감사합니다.</p>
 					<p>
 						<ul class="fh5co-social-icons">
 							<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -160,7 +160,7 @@
 									<span class="company kor_body">팀프로젝트- 2021.02 - 2021.03</span>
 								</div>
 								<div class="timeline-body">
-									<p class="kor_body">"오늘 뭐 먹지?" 라는 질문에서 시작된 서비스입니다. 전체 서비스를 기획하고 팀원 역할을 배분하였습니다. KAMIS.org 에서 API 활용해 식재료 가격 10년 치 데이터를 MLP Regressor를 활용하여 머신러닝 모델을 만들어 가격을 예측해 식재료를 추천하는 기능을 구현했습니다. 음식 키워드 검색량을 분석해 요즘 뜨는 음식을 추천하는 기능을 구현했습니다. 음식 레시피 정보를 크롤링해 조리법 정보를 제공했습니다. 식약처 식품영양성분 데이터베이스를 활용해 통합 영양성분 DB를 구축하고 재료 및 음식의 성분 정보를 제공했습니다. 조건에 맞는 개인 맞춤형 식단을 추천하는 알고리즘을 개발했습니다. 많은 데이터를 시각화 하기 위해 대시보드 형태로 웹페이지를 설계 및 디자인하였습니다.</p>
+									<p class="kor_body">"오늘 뭐 먹지?" 라는 질문에서 시작된 서비스입니다. 전체 서비스를 기획 하였습니다. KAMIS.org 에서 API 활용해 식재료 가격 10년 치 데이터를 MLP Regressor를 활용하여 머신러닝 모델을 만들어 가격을 예측해 식재료를 추천하는 기능을 구현했습니다. 음식 키워드 검색량을 분석해 요즘 뜨는 음식을 추천하는 기능을 구현했습니다. 음식 레시피 정보를 크롤링해 조리법 정보를 제공했습니다. 식약처 식품영양성분 데이터베이스를 활용해 통합 영양성분 DB를 구축하고 재료 및 음식의 성분 정보를 제공했습니다. 조건에 맞는 개인 맞춤형 식단을 추천하는 알고리즘을 개발했습니다. 많은 데이터를 시각화 하기 위해 대시보드 형태로 웹페이지를 설계 및 디자인하였습니다.</p>
 								</div>
 							</div>
 						</li>
@@ -299,7 +299,7 @@
 								<i class="icon-search"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Data collection</h3>
+								<h3>Data Collection</h3>
 								<p class="kor_body">웹 크롤링과 앱을 통해 데이터를 수집하고 가공하여 DB에 저장할 수 있습니다</p>
 							</div>
 						</div>
@@ -308,10 +308,10 @@
 					<div class="col-md-4 text-center">
 						<div class="feature-left">
 							<span class="icon">
-								<i class="icon-bargraph"></i>
+								<i class="icon-genius"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>ML modeling</h3>
+								<h3>ML Modeling</h3>
 								<p class="kor_body">필요한 모델을 개발하고 실제 제품에 적용 할 수 있습니다. 모델의 성능을 모니터링하고 개선하기 위해 노력합니다</p>
 							</div>
 						</div>
@@ -320,10 +320,10 @@
 					<div class="col-md-4 text-center">
 						<div class="feature-left">
 							<span class="icon">
-								<i class="icon-genius"></i>
+								<i class="icon-bargraph"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Analytics</h3>
+								<h3>Data Analytics</h3>
 								<p class="kor_body">Python과 R을 사용하여 데이터를 시각화하고 대시보드를 생성하고 관리할 수 있습니다</p>
 							</div>
 						</div>
@@ -427,7 +427,7 @@
 						</div>
 					</div>
 					<div class="progress-wrap">
-						<h3><span class="name-left">CSS</span><span class="value-right">60%</span></h3>
+						<h3><span class="name-left">CSS3</span><span class="value-right">60%</span></h3>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
 						  aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
@@ -490,73 +490,81 @@
 			</div>
 			<div class="row">
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-1.jpg);">
+					<a href="https://github.com/sarte3/project2" class="work" style="background-image: url(resources/images/pj01.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Dietmite</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">발표보기</span>
+							<span class="kor_body">설명보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-2.jpg);">
+					<a href="https://github.com/jeeHwon/ml" class="work" style="background-image: url(resources/images/pj02.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
+							<h3>ML Study</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">발표보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-3.jpg);">
+					<a href="https://github.com/jeeHwon/pyPJ/tree/master/stockPJ" class="work" style="background-image: url(resources/images/pj03.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Auto Stock Trading</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">설명보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-4.jpg);">
+					<a href="https://github.com/jeeHwon/projectKY/tree/master/StampUs2" class="work" style="background-image: url(resources/images/pj04.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Design</span>
+							<h3>StampUs</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">설명보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-5.jpg);">
+					<a href="https://github.com/jeeHwon/pyPJ/tree/master/rWK/rstudy" class="work" style="background-image: url(resources/images/pj05.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Website</span>
+							<h3>Guro-gu Chicken</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">설명보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-6.jpg);">
+					<a href="https://github.com/jeeHwon/Algorithm" class="work" style="background-image: url(resources/images/pj06.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Algorithm</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">설명보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-7.jpg);">
+					<a href="https://github.com/jeeHwon/VanJs/tree/master/my-pose-model" class="work" style="background-image: url(resources/images/pj07.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
+							<h3>Snot Watcher</h3>
+							<span class="kor_body">코드보기</span>
+							<span class="kor_body">설명보기</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(resources/images/portfolio-8.jpg);">
+					<a href="https://github.com/jeeHwon" class="work" style="background-image: url(resources/images/portfolio-5.jpg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Hello World</h3>
+							<span> </span>
 						</div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-
+	<!-- 
 	<div id="fh5co-blog">
 		<div class="container">
 			<div class="row animate-box">
@@ -614,6 +622,7 @@
 			</div>
 		</div>
 	</div>
+	 -->
 	
 	<div id="fh5co-started" class="fh5co-bg-dark">
 		<div class="overlay"></div>
@@ -629,7 +638,7 @@
 	</div>
 
 	<div id="fh5co-consult">
-		<div class="video fh5co-video" style="background-image: url(resources/images/cover_bg_1.jpg);">
+		<div class="video fh5co-video" style="background-image: url(resources/images/bg01.jpg);">
 			<div class="overlay"></div>
 		</div>
 		<div class="choose animate-box">
@@ -698,10 +707,10 @@
 	<script src="resources/js/jquery.stellar.min.js"></script>
 	<!-- Easy PieChart -->
 	<script src="resources/js/jquery.easypiechart.min.js"></script>
-	<!-- Google Map -->
+	<!-- Google Map 
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
 	<script src="resources/js/google_map.js"></script>
-	
+	-->
 	<!-- Main -->
 	<script src="resources/js/main.js"></script>
 
